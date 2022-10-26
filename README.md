@@ -9,4 +9,4 @@ The backpropagation.ipynb</br>
 
 
 The unsupervised_learning_PCA.ipynb</br>
-#contains code for backpropagation model from scratch</br>
+#contains code for Kohonen network and Principal component analysis</br>
